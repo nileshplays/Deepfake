@@ -1,0 +1,22 @@
+# ===== Node =====
+node_modules/
+
+# ===== Python =====
+venv/
+__pycache__/
+*.pyc
+
+# ===== ML Models =====
+*.h5
+*.pt
+*.onnx
+
+# ===== Environment Variables =====
+.env
+
+# ===== Uploads / Temp =====
+uploads/
+temp_*
+
+# ===== Logs =====
+*.log
